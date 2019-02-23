@@ -11,8 +11,9 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
-var two = '2'
+
 function add2(n) {
+  var two = '2'
   return n + two
 
   // Feel free to move things around!
